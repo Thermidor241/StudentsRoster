@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: burlywood;
+}
+
+.right-items {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
